@@ -4,6 +4,13 @@
 </template>
 
 <script lang="ts" setup>
+const props = defineProps({
+  msg: {
+    type: String,
+    required: true,
+  },
+});
+
 const count = ref(0);
 </script>
 
