@@ -10,9 +10,11 @@ Template for Vue 3 + TypeScript, with a couple of nice things:
 
 Todo:
 - Testing (Jest + Cypress?)
+- Prettier + Linting
 - Sentry (Off by default if not configured)
 - Vuex?
 - Apollo/Axios?
+- PostCSS
 
 ## Recommended IDE Setup
 
