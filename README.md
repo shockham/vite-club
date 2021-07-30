@@ -8,6 +8,12 @@ Template for Vue 3 + TypeScript, with a couple of nice things:
 - Layouts (via `vite-plugin-vue-layouts`)
 - I18n (via `@intlify/vite-plugin-vue-i18n`)
 
+Todo:
+- Testing (Jest + Cypress?)
+- Sentry (Off by default if not configured)
+- Vuex?
+- Apollo/Axios?
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur). Make sure to enable `vetur.experimental.templateInterpolationService` in settings!
