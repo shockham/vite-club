@@ -1,4 +1,6 @@
-# Vue 3 + Typescript + Vite
+# Vite-club
+
+Because I don't know how to pronounce vite.
 
 This template should help get you started developing with Vue 3 and Typescript in Vite.
 
