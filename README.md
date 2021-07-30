@@ -1,8 +1,12 @@
-# Vite-club
+# Vite Club
 
 Because I don't know how to pronounce vite.
 
-This template should help get you started developing with Vue 3 and Typescript in Vite.
+Template for Vue 3 + TypeScript, with a couple of nice things:
+- Auto component import (via `vite-plugin-component`)
+- File system based routing (via `vite-plugin-pages`)
+- Layouts (via `vite-plugin-vue-layouts`)
+- I18n (via `@intlify/vite-plugin-vue-i18n`)
 
 ## Recommended IDE Setup
 
