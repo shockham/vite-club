@@ -11,6 +11,8 @@ const props = defineProps({
   },
 });
 
+const { msg } = toRefs(props);
+
 const count = ref(0);
 </script>
 
