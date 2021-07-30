@@ -4,6 +4,8 @@
 </template>
 
 <script lang="ts" setup>
+import { ref, toRefs } from "vue";
+
 const props = defineProps({
   msg: {
     type: String,
